@@ -1,5 +1,8 @@
 # Pig-Game
 
+
+This project was built during a course, I cannot take full credit for it.Still, I followed the teacher's instructions and wrote code with him from the beginning of the course. I can confidently say that I know how the whole program works and I fully understand it's logic.
+
 Pig Game rules: 
 
 - It has 2 players, it's playable in rounds
